@@ -70,7 +70,7 @@ RMEnhancedModel = require('app/base/Class').extend({
 		$('#button-skip-this').attr('style','background-image:url(http://i.imgur.com/dkKqEwc.png);');
         $('body').attr('style','background: none');
             $('head').append('<style type="text/css" id="TFL-css">'
-            + 'html{background: url("http://i.imgur.com/B1S4pBT.jpg") no-repeat scroll center top #000000;}'
+            + 'html{background: url("http://i.imgur.com/hJt6Prn.jpg") no-repeat scroll center top #000000;}'
             + '#button-lobby { background-image: url("http://i.imgur.com/E1JsRr9.png");}'
             + 'body {color:#FFFFFF;}'
 			+ '#chat {background-color: rgba(10, 10, 10, 0.7);}'
