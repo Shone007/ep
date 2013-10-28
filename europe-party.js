@@ -1,5 +1,4 @@
 API.chatLog('<3 Welcome to Europe party! <3');
-API.chatLog('I am your friend,host-bot,and I am here to help you.');
 function initEnvironment(){
 }
  window.alert = function(data){
